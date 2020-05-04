@@ -24,7 +24,7 @@ Notre travail donc sera d’étiqueter, et ainsi d’identifier certaines caract
 Voici un exemple de phrase étiquetée :
 </p>
 
-![ImageEx](imgs/1.PNG?raw=true "")
+![ImageEx](img/1.PNG?raw=true "")
 <hr>
 
 <p>
@@ -34,5 +34,5 @@ Voici un exemple de phrase étiquetée :
  <p>
   <strong style="color: #000;">Nos Resultats</strong>:
   
-![ImageEx](imgs/1.PNG?raw=true "")
+![ImageEx](img/1.PNG?raw=true "")
 </p>
