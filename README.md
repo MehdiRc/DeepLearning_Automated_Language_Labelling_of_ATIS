@@ -34,5 +34,5 @@ Voici un exemple de phrase étiquetée :
  <p>
   <strong style="color: #000;">Nos Resultats</strong>:
   
-![ImageEx](img/1.PNG?raw=true "")
+![ImageEx](img/2.PNG?raw=true "")
 </p>
