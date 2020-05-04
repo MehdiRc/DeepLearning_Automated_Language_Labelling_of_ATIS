@@ -2,7 +2,7 @@
 <h1 style="text-align: center;">Automated Language Labelling of Airline Travel Information System (ATIS) </h1>
 <h4><code>TER de Deep Learning </code></h4>
 <p><strong style="color: #000;"></strong></p>
-Mehdi Chakhchoukh, Quentin Lemasson
+Projet par: Mehdi Chakhchoukh, Quentin Lemasson
 <hr>
 
 <p>
